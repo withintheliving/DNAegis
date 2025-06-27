@@ -4,9 +4,8 @@ DNAegis is a Streamlit-based tool for encrypting/decrypting DNA sequences and pe
 
 ---
 
-## 🎥 Live Demo
+🎥 Live demo: https://vimeo.com/1097010480
 
-▶️ [Watch the DNAegis demo](https://vimeo.com/1097010480)
 
 ---
 
